@@ -19,7 +19,7 @@ Intro: Hmi/E  A  Hmi/E  A  Gmaj  A7  Hsus2
    když musí jít večer spát
 
 2. Jako víno dozrává, jako v mořích vlny hasnou
-   vzpomínkami zůstává na tu smutnou zemi krásnou
+   vzpomínka mi zůstává na tu smutnou zemi krásnou
    na rybářské staré sítě, na draka a malé dítě,
    které nemá si s kým hrát.
 
@@ -37,5 +37,5 @@ Intermezzo = Intro
 
 5. Na předměstí stával dům, malý Lučín si tam hrával...
 
-Intermezzo = Intro  Gmaj
+Intermezzo = Intro  Emaj
 
