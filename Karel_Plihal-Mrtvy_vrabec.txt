@@ -1,6 +1,8 @@
 Karel Plíhal - Mrtvý vrabec
 
-according to: https://www.youtube.com/watch?v=t2QofMwdex0
+mostly according to: https://www.youtube.com/watch?v=t2QofMwdex0
+but refrain according to the track from album
+Takhle nějak to bylo http://www.karelplihal.cz/desky/tntb.php
 
 
    C Edim F D#dim
@@ -18,11 +20,11 @@ according to: https://www.youtube.com/watch?v=t2QofMwdex0
    když jsem nad ním stál, právě poprchalo,
     C             C#9 C9   F           D#dim  C                       C#9 C9
    a on tam ležel            na nároží          starý a mrtvý vrabec.
-    F                         Fmi
+    F                         As7
 *: Zatím dole v dancingu tři snědí páni v smokingu
-     C              A7
+     C7             A7
    hrají pro cizí vkus,
-     Dmi7                        
+     D7                         D#dim
    stesk jim voči zavírá, když kytarista zazpívá
         As          G  G+
    svý nejnovější blues.
