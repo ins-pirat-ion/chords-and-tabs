@@ -77,7 +77,7 @@ C7 C#7 D7 D#7
 
 E7 A+ Ami Dmi7 F9 A7 A+ Ami Dmi7 A7 Dmi7
 
-C7     A7   D9 G6 Cmaj
+Bmaj     A7   Fmaj G6 Cmaj
  
 Všechna hnízda šla už spát 
 je nutno myslet na návrat 
