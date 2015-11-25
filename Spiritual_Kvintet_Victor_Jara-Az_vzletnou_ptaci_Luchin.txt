@@ -4,7 +4,9 @@ Czech Lyrics version: Dušan Vančura of Spirituál Kvintet https://en.wikipedia
 Až vzlétnou ptáci
 
 
-Intro: Hmi/E  A  Hmi/E  A  Gmaj  A7  Hsus2
+Intro:
+
+Hmi/E  A  Hmi/E  A  Gmaj  A7  Hsus2
 
    D6           A7     D6   Gmaj         A7     D6     A7
 1. Na předměstí stával dům, malý chlapec si tam hrával
@@ -37,5 +39,7 @@ Intermezzo = Intro
 
 5. Na předměstí stával dům, malý Lučín si tam hrával...
 
-Intermezzo = Intro  Emaj
+Intermezzo = Intro
+
+Emaj
 

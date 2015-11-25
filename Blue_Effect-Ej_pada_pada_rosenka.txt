@@ -1,18 +1,18 @@
 Ej padá, padá rosenka
 
-Blue Effect
+Blue Effect / Modrý Efekt
 
 https://www.youtube.com/watch?v=saM2HqJcO1w
 
 Hmi
-H C# D C# H F# A H
+𝅘𝅥𝅮 H C# D C# H F# A H
 ...
 
-[: H D C# E D F# E G F# A H H C# D H  :] 3x
+𝅘𝅥𝅮 [:3x H D C# E D F# E G F# A H H C# D H  :]
 
 Hmi                        D A     G   F#mi     E 
 
-H D C# E D F# E G F# A H   D C#DC# H E D C#DC#  H
+𝅘𝅥𝅮 H D C# E D F# E G F# A H   D C#DC# H E D C#DC#  H
 
 
 
