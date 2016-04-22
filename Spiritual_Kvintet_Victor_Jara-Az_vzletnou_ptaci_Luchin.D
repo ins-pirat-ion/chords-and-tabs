@@ -1,15 +1,14 @@
+Až vzlétnou ptáci (Luchin)
+
 Original music and Lyrics: Víctor Jara https://en.wikipedia.org/wiki/V%C3%ADctor_Jara
 Czech Lyrics version: Dušan Vančura of Spirituál Kvintet https://en.wikipedia.org/wiki/Spiritu%C3%A1l_kvintet
 
 https://www.youtube.com/watch?v=rvYMunOmiGE
 
-Až vzlétnou ptáci
-
 Orig: D
 
 Solo:
-
-Hmi/E  A  Hmi/E  A  Gmaj  A7  Hsus2/F#  /F#  /F#
+       Hmi/E  A  Hmi/E  A  Gmaj  A7  Hsus2/F#  /F#  /F#
 
    D6           A7     D6   Gmaj         A7     D6     A7
 1. Na předměstí stával dům, malý chlapec si tam hrával
@@ -68,6 +67,4 @@ Solo:
 1'. Na předměstí stával dům, malý Lučín si tam hrával...
 
 Solo:
-
-Dmaj
-
+                                                       Dmaj
