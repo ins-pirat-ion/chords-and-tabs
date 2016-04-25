@@ -1,7 +1,7 @@
 Až vzlétnou ptáci (Luchin)
 
-Original music and Lyrics: Víctor Jara https://en.wikipedia.org/wiki/V%C3%ADctor_Jara
-Czech Lyrics version: Dušan Vančura of Spirituál Kvintet https://en.wikipedia.org/wiki/Spiritu%C3%A1l_kvintet
+Original music and Lyrics: Víctor Jara
+Czech Lyrics version: Dušan Vančura of Spirituál Kvintet
 
 https://www.youtube.com/watch?v=rvYMunOmiGE
 
