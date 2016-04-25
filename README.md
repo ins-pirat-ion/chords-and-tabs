@@ -6,4 +6,4 @@ Chords and tabs of songs I like and haven't found anywhere else in quality suffi
   https://github.com/ins-pirat-ion/sandpile#chordsvim
   so they can be highlighted in vim ( http://www.vim.org/ ) by chords.vim
   and transposed by https://github.com/ins-pirat-ion/sandpile#chords_transposerb
-* highlighed html version of songs are in https://github.com/ins-pirat-ion/chords-and-tabs/tree/master/vimhighlighted
+* find coloured / highlighed html versions of songs in https://github.com/ins-pirat-ion/chords-and-tabs/tree/master/vimhighlighted
