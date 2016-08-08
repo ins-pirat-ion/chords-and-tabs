@@ -10,7 +10,6 @@ B7:          x-1-0-1-x-x
 E7:          0-7-6-7-5-0
 E7/6:        x-7-x-7-9-9
 Ami7:        5-7-5-5-5-5
-Ami7/6add9:  5-7-5-5-7-7
 D7:          x-5-4-5-3-x
 G+:          x-x-x-4-4-3        x-x-x-8-8-7
 A+:          x-x-x-6-6-5
@@ -42,7 +41,7 @@ R:
 
 Solo:
       C7 C#7 D7 D#7 E7    A+ Ami    Dmi7    F9     A7   A+ Ami   Dmi7 A7 Dmi7
-      C    Ami7   Dmi7   G6   C9      A7                Fmaj  G6/7  Cmaj  /D  /D#
+      C    Ami7   Dmi7   G6   C9      A7                Fmaj  G6/7  Cmaj  /D /D#
 
 R:
    E7                         E7/6                      Ami7 E7       Ami7 /H /A
@@ -52,11 +51,7 @@ R:
 
    Cmaj Edim  Dmi7        G7              Cmaj Edim  Dmi7     G7
 3. Sedá vám   svou kytaru v klíně         zpívávám   pomalu a líně
-   C7   H7       B7           A7
-   neznámá blues hlasem zastřeným
-   Dmi7     G7     Cmaj     C6 H6 B6 A6
-   z komínu stoupá dým
-   Dmi7     G7     Cmaj     G9 F#9 F9 E9
-   z komínu stoupá dým
-   Fmaj     G6/7   Cmaj
-   z komínu stoupá dým
+   C7   H7       B7           A7          Dmi7     G7     Cmaj C6 H6 B6 A6
+   neznámá blues hlasem zastřeným         z komínu stoupá dým
+   Dmi7     G7     Cmaj G9 F#9 F9 E9      Fmaj     G6/7   Cmaj
+   z komínu stoupá dým                    z komínu stoupá dým
