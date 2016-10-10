@@ -2,6 +2,8 @@ Václav Neckář - Chci Tě Líbat
 
 https://www.youtube.com/watch?v=kXvIGBTK_Wk
 
+Orig: A
+
             C                             G7
 1. Chci tě líbat, přijď lásko má, nač se skrývat,
                 E7         Ami G
