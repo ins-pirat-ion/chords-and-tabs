@@ -18,6 +18,9 @@ F9:          x-8-7-8-8-x
 C6:          x-3-5-5-5-5
 G9:          x-10-9-10-10-10
 
+I:
+   Cmaj    Edim    Dmi7     G7      Cmaj    Edim    Dmi7       G7
+
    Cmaj Edim      Dmi7         G7         Cmaj Edim  Dmi7              G7
 1. Sedá vám       na domovních schodech   zpívávám   v krásných cizích slovech
    C7     H7    B7       A7               D9       G6     Cmaj  G7
@@ -40,8 +43,8 @@ R:
    neznámá blues hlasem zastřeným         z komínu stoupá dým
 
 Solo:
-      C7 C#7 D7 D#7 E7    A+ Ami    Dmi7    F9     A7   A+ Ami   Dmi7 A7 Dmi7
-      C    Ami7   Dmi7   G6   C9      A7                Fmaj  G6/7  Cmaj  /D /D#
+   C7 C#7 D7 D#7 E7    A+ Ami    Dmi7    F9   A7   A+ Ami   Dmi7 A7 Dmi7
+                 C    Ami7   Dmi7   G6   C9   A7            Fmaj  G67  Cmaj /D /D#
 
 R:
    E7                         E7/6                      Ami7 E7       Ami7 /H /A
