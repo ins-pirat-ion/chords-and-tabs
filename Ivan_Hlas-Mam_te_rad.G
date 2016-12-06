@@ -2,6 +2,8 @@ Ivan Hlas - Mám tě rád
 
 https://www.youtube.com/watch?v=hPSTfLYOP-I
 
+Orig: Hmi
+
 I:
     Gmaj
 
@@ -37,3 +39,4 @@ Bláznivá je noc, jako kolotoč a v ní jen vy dva.
 Já nemůžu, nesmím, číhá kolem tma.
 
 O:
+   G      F#     Hmi
