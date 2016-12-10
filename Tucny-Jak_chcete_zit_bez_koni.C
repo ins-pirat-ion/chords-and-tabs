@@ -2,16 +2,18 @@ Michal Tučný - Jak chcete žít bez koní
 
 https://www.youtube.com/watch?v=VtAoB5-3-0o
 
+Orig: D - Kapo 2
+
 I:
-   C                  Cmaj C                  Cmaj
+   C           Cmaj        C        Cmaj
 
 C                    Cmaj
 1. Už jsem si zvyknul     i na proudy aut,
-C7            C6        F
+C7            C6        F   F6
    jak se tak valí dálnicí.
-Fmi              C          Cmaj          C6
+Fmi              Fmi6         Cmaj          C
    Je to zkrátka pokrok a ten já mám celkem rád,
-   Dmi           F     F6     G
+   F   Dmi           F     F6     G
    mám v něm svý místo a svůj cíl.
 
 2. A jen občas je mi líto ve chvílích nejtišších,
