@@ -2,62 +2,49 @@ Ivan Mládek - Vánoce v Ďáblicích
 
 https://www.youtube.com/watch?v=5Ed_d04Hsro
 
-Kapo 1
+Orig: D# - Kapo 1
 
 I:
-Dsus2 D     Emi Emiadd2     A7sus4 A7       D   A7
-Hmm ...
+   Dsus2 D     Emi Emiadd2     A7sus4 A7       D   A7  /A /H /C#
+   Hmm ...
+   Dsus2 D     Emi Emiadd2     A7sus4 A7       D
+   Hmm ...
+       Hmi                 F#mi
+♪  F#  H  C# D   H  C#  D  C# D E   C#  D  E (Harmonica)
+   Gmaj                      A7
+♪  D  E F#   F#   ^H  H  vH  A
+   Dsus2 D     Emi Emiadd2     A7sus4 A7       D   A7 /A /H /C#
+   Hmm ...
 
-Dsus2 D     Emi Emiadd2     A7sus4 A7       D
-Hmm ...
+       Dsus2  D                Emi  Emiadd2
+1. Čas vá     noční trávívám v Ďá   blicích
+                  A7sus4  A7                 D    A7 /A /H /C#
+   s mou známou v sou     kromí, svůj bejvák má
 
-I2 (Harmonica):
-      Hmi                 F#mi
-𝅘𝅥𝅮 F#  H  C# D   H  C#  D  C# D E   C#  D  E
+      Dsus2 D                    Emi Emiadd2
+2. Já tý    den s ní sdílím stůl svá teční
+             A7sus4 A7            D
+   vánočních ná     vyků má známá dbá
 
-  Gmaj                    A7
-𝅘𝅥𝅮 D  E F#   F#   H  H  D  C#
+R:
+        Hmi                F#mi
+   Že v útulném doupátku v přízemí
+           Gmaj                  A7
+   Závazný slib jí dám, já hrůzu mám
 
-Dsus2 D     Emi Emiadd2     A7sus4 A7       D   A7
-Hmm ...
+       Dsus2 D               Emi  Emiadd2
+3. Čas vá    noční má zrádná ú    skalí
+              A7sus4 A7              D   A7 /A /H /C#
+   Kéž dál je má     známá jen známá má
 
+I2: (Harmonica) 2x
+      Dsus2 D                Emi   Emiadd2
+♪ A  ^E     D D   C#um H vF# G    ^F# F#      F#   H   vD
+     A7sus4 A7              D (A7 /A /H /C#)
+♪    D   C# C#    C#  H  E  A
 
-    Dsus2  D                Emi  Emiadd2
-Čas vá     noční trávívám v Ďá   blicích
+R:
 
-               A7sus4  A7                 D    A7
-S mou známou v sou     kromí, svůj bejvák má
+3.
 
-
-   Dsus2 D                    Emi Emiadd2
-Já tý    den s ní sdílím stůl svá teční
-
-          A7sus4 A7            D
-Vánočních ná     vyků má známá dbá
-
-
-     Hmi                F#mi
-Že v útulném doupátku v přízemí
-
-        Gmaj                  A7
-Závazný slib jí dám, já hrůzu mám
-
-
-    Dsus2 D               Emi  Emiadd2
-Čas vá    noční má zrádná ú    skalí
-
-           A7sus4 A7              D   A7
-Kéž dál je má     známá jen známá má
-
-I (Harmonica):
-      Dsus2 D                Emi Emiadd2           A7sus4 A7                 D       A7
-𝅘𝅥𝅮 A   E     D D   C#DC# H F# G   F#      F#  H  D  D      C# C#    C#  H  E  A
-
-      Dsus2 D                Emi Emiadd2           A7sus4 A7                  D
-𝅘𝅥𝅮 A   E     D D   C#DC# H F# G   F#      F#  H  D  D      C# C#    C#  H  C#  D
-
-Že v útulném...
-
-Čas vánoční...
-
-I: (Harmonica + Hmm) fade...
+I2: (Harmonica + Hmm) fade...

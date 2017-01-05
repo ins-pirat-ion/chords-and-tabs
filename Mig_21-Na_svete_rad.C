@@ -16,10 +16,10 @@ I:
    Uléhám taktéž s úsměvem takový už já jsem
 
 R:
-         C         /H        /A   /G   D7               Ami
-   Už to vím-už to vím-už to mám       písničku svou si zpívám
-         C         /H        /A   /G   D7         Ami
-   Už to vím-už to vím-už to mám       nikomu nezazlívám
+         C          /H         /A   /G   D7               Ami
+   Už to vím, už to vím, už to mám       písničku svou si zpívám
+         C          /H         /A   /G   D7         Ami
+   Už to vím, už to vím, už to mám       nikomu nezazlívám
       D7            C                    C          G7       C     G7
    Že nic mi nechce dát                a proto jsem na světě rád
 
@@ -37,10 +37,10 @@ I:
    Bojuji s pýchou, s egem i zlem takový už já jsem
 
 R:
-         C         /H        /A   /G   D7               Ami
-   Už to vím-už to vím-už to mám       písničku svou si zpívám
-         C         /H        /A   /G   D7         Ami
-   Už to vím-už to vím-už to mám       nikomu nezazlívám
+         C          /H         /A   /G   D7               Ami
+   Už to vím, už to vím, už to mám       písničku svou si zpívám
+         C          /H         /A   /G   D7         Ami
+   Už to vím, už to vím, už to mám       nikomu nezazlívám
       D7            C                    C          G7       C     G7
    Že nic mi nechce dát                a proto jsem na světě rád
 
