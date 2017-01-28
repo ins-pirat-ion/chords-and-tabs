@@ -22,7 +22,7 @@ R:
    Tou cestou mechovou   přijď rychle rovnou k nám
    C7         F              G7        Emi
    Vždyť fůru přátel máš     v zeleném údolí
-         Ami          Dmi7                /Fmaj  /G   C   C7	
+         Ami          Dmi7                /F     /G   C   C7	
             no tak si jich jen važ,    ať už jsi kdokoliv.
 I:
     F      G      Emi      Ami      Dmi7      /F /G  C
@@ -40,13 +40,13 @@ C7            Dmi7     /G        C /C /C /H Ami
       Ami             Dmi7         /G         E    Dmi7  E  (drums)
          Vždyť v kůře stromů dá se najít celý svět
 R:
-   /G /A  /G  C                  G      C
-   Kdybys tak náhodou měl pocit, že jsi sám 
-              Emi                   G7     C   
-   Tou cestou mechovou přijď rychle rovnou k nám 
+   /G /A  /G  C                      G      C
+   Kdybys tak náhodou     měl pocit, že jsi sám 
+              Emi                      G7     C   
+   Tou cestou mechovou    přijď rychle rovnou k nám 
    C7         F          G7        Emi
    Vždyť fůru přátel máš v zeleném údolí
-         Ami          Dmi7             /Fmaj  /G   C   C7     
+         Ami          Dmi7             /F     /G   C   C7     
             no tak si jich jen važ, ať už jsi kdokoliv.
 I:
     F      G      Emi      Ami      Dmi7      /F /G  C
