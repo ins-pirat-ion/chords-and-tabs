@@ -11,7 +11,7 @@ Orig: E
 
 I:
     E   F#mi7    E/G#      F#mi        E         F#mi7     E/G#        F#mi
-𝅘𝅥𝅮                E  E  _C# E F# E      F#_G# H H H_C# E E  E_F# F#_G#  G#_H  H_C# C#_E
+♪                E  E  _C# E F# E      F#_G# H H H_C# E E  E_F# F#_G#  G#_H  H_C# C#_E
 
     E      F#mi7   E/G#      F#mi7             E      F#mi7    E/G#      F#mi
 1.  Zdá se mi          je to moc let,          já byl kluk,       kterej chtěl
@@ -36,11 +36,11 @@ R:
 
 Solo:
     E         F#mi7  E/G#        F#mi7      E  F#mi7       E/G#        F#mi
-𝅘𝅥𝅮   E    H C# H C#   H C# H G#   F# G G#       H C# H G#   F# G# F# G# H_C#
+♪   E    H C# H C#   H C# H G#   F# G G#       H C# H G#   F# G# F# G# H_C#
     E                   F#mi7                E/G#          F#mi7         E
-𝅘𝅥𝅮   H_C# E F# H_C# E F# H_C# E F# H_C# E F#  E F# G#_H Aum F#um Eum E C# E
+♪   H_C# E F# H_C# E F# H_C# E F# H_C# E F#  E F# G#_H Aum F#um Eum E C# E
                     E7
-𝅘𝅥𝅮   E_F# F#_G# G#_H H Hum H
+♪   E_F# F#_G# G#_H H Hum H
 
 R:
     C#mi  D#mi A     G#mi F#mi7    C#mi     D#mi A      G#mi F#mi
@@ -56,8 +56,8 @@ R:
 O:
    E            F#mi7          E/G#                   F#mi      E
                 F#mi7          E/G#                   F#mi
-𝅘𝅥𝅮                              E     E      _C#       E     F#    E
+♪                              E     E      _C#       E     F#    E
    Nemohu spát, probouzím se a zase se nemohu ubránit myšlence vrátit se o nějakej
      E          F#mi7                   E/G#                  F#mi7               E7
-𝅘𝅥𝅮    F#_G# H H  H_C#    E    E          E_F#     F#_G#        G#_H    H_C#  C#_E  E
+♪    F#_G# H H  H_C#    E    E          E_F#     F#_G#        G#_H    H_C#  C#_E  E
    ten rok zpátky, bejt zase malým klukem, který si rád hraje, který je s tebou.
