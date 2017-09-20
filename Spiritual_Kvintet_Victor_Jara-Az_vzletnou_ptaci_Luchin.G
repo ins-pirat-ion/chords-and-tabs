@@ -1,47 +1,47 @@
 Víctor Jara, Dušan Vančura, SQ - Až vzlétnou ptáci (Luchin)
                 https://www.youtube.com/watch?v=rvYMunOmiGE
-Orig: D
+Orig: D - Kapo: 7 (Baritone kapo 2 on D-A strings)
 
 I:
-   Hmi/E  A  Hmi/E  A  Gmaj  A7  Hsus2/F#  /F#  /F#
-   D6           A7     D6   Gmaj         A7     D6     A7
+   Emi/A  D  Emi/A  D  Cmaj  D7  Esus2/H   /H   /H
+   G6           D7     G6   Cmaj         D7     G6     D7
 1. Na předměstí stával dům, malý chlapec si tam hrával
-   D6              A7    D6   Gmaj          A7    D6
+   G6              D7    G6   Cmaj          D7    G6
    drak co vzlétal k oblakům, všechna tajná přání znával.
-   Gmaj        A7      G      Gmaj         A7     G
+   Cmaj        D7      C      Cmaj         D7     C
    Draci totiž vždycky ví to, co je klukům nejvíc líto
-   Gmaj          A7    Hsus2   Hsus2
+   Cmaj          D7    Esus2   Esus2
    když musí jít večer spát
 
-   D6        A7   D6  Gmaj          A7   D6     A7
+   G6        D7   G6  Cmaj          D7   G6     D7
 2. Jako víno dozrává, jako v mořích vlny hasnou
-   D6           A7   D6   Gmaj          A7   D6
+   G6           D7   G6   Cmaj          D7   G6
    vzpomínka mi zůstává   na tu smutnou zemi krásnou
-   Gmaj        A7    G     Gmaj       A7   G
+   Cmaj        D7    C     Cmaj       D7   C
    na rybářské staré sítě, na draka a malé dítě,
-   Gmaj       A7       Hsus2    Hsus2
+   Cmaj       D7       Esus2    Esus2
    které nemá si s kým hrát.
 
-   D6          A7     D6   Gmaj       A7     D6       A7
+   G6          D7     G6   Cmaj       D7     G6       D7
 3. Na provázku slunce měl, oblohou se za ním vznášel
-   D6         A7      D6    Gmaj         A7    D6
+   G6         D7      G6    Cmaj         D7    G6
    jako vánek šel kam chtěl smutné lampy lidem zhášel,
-   Gmaj       A7     G     Gmaj        A7       G
+   Cmaj       D7     C     Cmaj        D7       C
    pohádkovou dýchal vůní, mluvil řečí horských tůní,
-   Gmaj           A7     Hsus2   Hsus2
+   Cmaj           D7     Esus2   Esus2
    průzračnou jak dětský smích.
 I:
-   D6         A7    D6   Gmaj     A7     D6       A7
+   G6         D7    G6   Cmaj     D7     G6       D7
 4. Bílý koník běžel dál  osamělou pustou plání,
-   D6            A7      D6    Gmaj         A7    D6
+   G6            D7      G6    Cmaj         D7    G6
    na dlani sníh dětství tál   i když padal bez ustání,
-   Gmaj       A7     G       Gmaj           A7    G
+   Cmaj       D7     C       Cmaj           D7    C
    den začíná tichou flétnou chvíli předtím nežli vzlétnou,
-   Gmaj        A7    Hsus2              Hsus2
+   Cmaj        D7    Esus2              Esus2
    hejna ptáků ve větvích.
-♪                    F# C# H  F# C# H   F#   G  A  H   A  G
+♪                    H  F# E  H  F# E   H    C  D  E   D  C
 
-    D6           A7     D6   Gmaj         A7     D6     A7
+    G6           D7     G6   Cmaj         D7     G6     D7
 1'. Na předměstí stával dům, malý Lučín si tam hrával...
 I:
-                                                       Dmaj
+                                                       Gmaj
