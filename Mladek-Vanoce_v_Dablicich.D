@@ -1,9 +1,6 @@
 Ivan Mládek - Vánoce v Ďáblicích
-
-https://www.youtube.com/watch?v=5Ed_d04Hsro
-
-Orig: D# - Kapo 1
-
+                                   https://youtu.be/5Ed_d04Hsro
+      Orig: D# - Kapo 1
 I:
    Dsus2 D     Emi Emiadd2     A7sus4 A7       D   A7  /A /H /C#
    Hmm ...
@@ -23,9 +20,8 @@ I:
 
       Dsus2 D                    Emi Emiadd2
 2. Já tý    den s ní sdílím stůl svá teční
-             A7sus4 A7            D
-   vánočních ná     vyků má známá dbá
-
+                       A7sus4 A7            D
+             vánočních ná     vyků má známá dbá
 R:
         Hmi                F#mi
    Že v útulném doupátku v přízemí
@@ -34,14 +30,13 @@ R:
 
        Dsus2 D               Emi  Emiadd2
 3. Čas vá    noční má zrádná ú    skalí
-              A7sus4 A7              D   A7 /A /H /C#
-   Kéž dál je má     známá jen známá má
-
+                        A7sus4 A7              D   A7 /A /H /C#
+             Kéž dál je má     známá jen známá má
 I2: (Harmonica) 2x
       Dsus2 D                Emi   Emiadd2
 ♪ A  ^E     D D   C#um H vF# G    ^F# F#      F#   H   vD
-     A7sus4 A7              D (A7 /A /H /C#)
-♪    D   C# C#    C#  H  E  A
+               A7sus4 A7              D (A7 /A /H /C#)
+♪              D   C# C#    C#  H  E  A
 
 R:
 
