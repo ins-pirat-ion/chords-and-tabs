@@ -10,8 +10,10 @@ G G G    Emi   C            G/H
 I'm crossing you in style some day
 D#dim Emi7  G7         C     F75-
 old   dream maker, you heart breaker,
-    Emi  Emi7   A9/C# Hmi7 E7    D    D7
-wherever you're going I'm  going your way
+    Emi  Emi7   C#mi7 F#7
+wherever you're go    ing
+     Hmi7 E7       Ami7 D7
+I'm  go   ing your way
 
 G   Emi        C              G/H
 Two drifters,  off to see the world,
